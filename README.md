@@ -64,7 +64,7 @@ terminal-hangman-game/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/terminal-hangman-game.git
+git clone https://github.com/Niharikasharma05/terminal-hangman-game.git
 ```
 
 ### Navigate to the Project Directory
